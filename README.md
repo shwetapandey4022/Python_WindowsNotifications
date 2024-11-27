@@ -4,12 +4,7 @@
 
   <h3 align="center">Windows-Notification</h3>
 
-  <p align="center">
-   
-    <br>
-    <br />
-  </p>
-</p>
+
 
 You can create a custom windows notificatoin and timer notification using `Python` in 10 lines of code. You can create custom name | custom label | custon notification icon | set time limit and you've your custom notificatoin for your app. 🎉
 ```
